@@ -1,0 +1,25 @@
+{
+  "name": "objecthasherjs",
+  "private": false,
+  "version": "1.0.1",
+  "description": "ES6 JS functions for fast insecure hashing objects into consistent integers.",
+  "keywords": [
+    "java hash",
+    "object hash",
+    "insecure",
+    "fast",
+    "fast hash",
+    "hash",
+    "integer hash",
+    "objecthasher",
+    "hashutils",
+    "objecthasherjs"
+  ],
+  "dependencies": {
+    "json-stable-stringify": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/falconscript/objecthasherjs"
+  }
+}
